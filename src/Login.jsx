@@ -18,7 +18,7 @@ import { Link } from 'react-router-dom'
       </div>
       <div className="registration-block">
         <h1 className="text-white font-bold">Login</h1>
-        <p className="text-white">already have an account? <span><Link to="/register">Register</Link></span></p>
+        <p className="text-white">already have  account? <span><Link to="/register">Register</Link></span></p>
         <br/>
         <input type='text' placeholder='Mobile no'></input>
         <hr/>
